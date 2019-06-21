@@ -39,7 +39,7 @@ namespace DataAccess
             command.Parameters.Add(username);
             command.Parameters.Add(email);
 
-            return (int) command.ExecuteScalar();
+            return (int)command.ExecuteScalar();
         }
 
         public User Read(int id)

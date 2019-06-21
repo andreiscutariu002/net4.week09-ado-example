@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entiti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{D58B41E3-3A56-46F0-963F-39F8832A7D30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Connection.SqlServer", "DataAccess.Connection.SqlServer\DataAccess.Connection.SqlServer.csproj", "{77090F4F-DCF9-4EFC-BAD2-B3F4BC1DF3A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess.Connection", "DataAccess.Connection.SqlServer\DataAccess.Connection.csproj", "{77090F4F-DCF9-4EFC-BAD2-B3F4BC1DF3A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

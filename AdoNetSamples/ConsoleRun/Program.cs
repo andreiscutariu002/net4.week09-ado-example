@@ -1,5 +1,5 @@
 ﻿using DataAccess;
-using DataAccess.Connection.SqlServer;
+using DataAccess.Connection;
 using Entities;
 
 namespace ConsoleRun

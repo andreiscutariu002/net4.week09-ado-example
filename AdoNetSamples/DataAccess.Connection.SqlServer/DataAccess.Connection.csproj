@@ -7,8 +7,8 @@
     <ProjectGuid>{77090F4F-DCF9-4EFC-BAD2-B3F4BC1DF3A0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DataAccess.Connection.SqlServer</RootNamespace>
-    <AssemblyName>DataAccess.Connection.SqlServer</AssemblyName>
+    <RootNamespace>DataAccess.Connection</RootNamespace>
+    <AssemblyName>DataAccess.Connection</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Data.SqlClient;
 
-namespace DataAccess.Connection.SqlServer
+namespace DataAccess.Connection
 {
     public static class ConnectionManager
     {

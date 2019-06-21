@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DataAccess.Connection.SqlServer\DataAccess.Connection.SqlServer.csproj">
-      <Project>{77090F4F-DCF9-4EFC-BAD2-B3F4BC1DF3A0}</Project>
-      <Name>DataAccess.Connection.SqlServer</Name>
+    <ProjectReference Include="..\DataAccess.Connection.SqlServer\DataAccess.Connection.csproj">
+      <Project>{77090f4f-dcf9-4efc-bad2-b3f4bc1df3a0}</Project>
+      <Name>DataAccess.Connection</Name>
     </ProjectReference>
     <ProjectReference Include="..\DataAccess\DataAccess.csproj">
       <Project>{D58B41E3-3A56-46F0-963F-39F8832A7D30}</Project>
